@@ -135,12 +135,12 @@ Depth-normalized ROI framework for cross-depth medical image segmentation, devel
 ## 📊 GitHub Stats
 
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=neel-lapsiwala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel-lapsiwala&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats-git-masterrstaib.vercel.app/api?username=neel-lapsiwala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="45%" src="https://github-readme-stats-git-masterrstaib.vercel.app/api/top-langs/?username=neel-lapsiwala&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neel-lapsiwala&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=neel-lapsiwala&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
