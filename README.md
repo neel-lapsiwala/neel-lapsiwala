@@ -151,19 +151,6 @@ Depth-normalization preprocessing to correct scale/field-of-view distortion acro
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img width="48%" src="https://github-readme-stats-git-masterrstaib.vercel.app/api?username=neel-lapsiwala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="45%" src="https://github-readme-stats-git-masterrstaib.vercel.app/api/top-langs/?username=neel-lapsiwala&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=neel-lapsiwala&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
